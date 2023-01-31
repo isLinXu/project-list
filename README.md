@@ -69,3 +69,49 @@ isLinXu project list
 
 
 
+# TODO List
+
+---
+
+- …
+- https://github.com/isLinXu/MyStarsRepo
+- https://github.com/isLinXu/PaddleCV
+- https://github.com/isLinXu/PytorchCV
+- https://github.com/isLinXu/AidLux_Learn
+- https://github.com/isLinXu/AICppLab
+- https://github.com/isLinXu/TrainSandBox
+- https://github.com/isLinXu/PytorchClas
+- https://github.com/isLinXu/TensorFlowWorkShop
+- https://github.com/isLinXu/AlgorithmProblemSummary
+- https://github.com/isLinXu/SourceReading
+- https://github.com/isLinXu/PyCppProject
+- https://github.com/isLinXu/Awesome-Pan
+- https://github.com/isLinXu/AI-Docker
+- https://github.com/isLinXu/PowerEquipmentRoutingInspection
+- https://github.com/isLinXu/PointCloudLab
+- https://github.com/isLinXu/Paddle_SportsClassify
+- https://github.com/isLinXu/Paddle_ImageRestoration
+- https://github.com/isLinXu/Annotations_Images_Web
+- https://github.com/isLinXu/my-cnblog-theme
+- https://github.com/isLinXu/RaspberryPi_Vgg16
+- https://github.com/isLinXu/Plane_Detect_Project
+- https://github.com/isLinXu/NetTrainingFurnaces
+- https://github.com/isLinXu/MachineLearningMaterials
+- https://github.com/isLinXu/AIWeb
+- https://github.com/isLinXu/Data-AnalysisLib
+- https://github.com/isLinXu/PytorchTemplateBuild
+- https://github.com/isLinXu/paddle-lighting
+- https://github.com/isLinXu/yolo_series
+- https://github.com/isLinXu/yolov5_qt
+- https://github.com/isLinXu/awesome-hand-book
+- https://github.com/isLinXu/JetBot-AIOT
+- https://github.com/isLinXu/ROS_CV
+- https://github.com/isLinXu/PaddleWorkShop
+- https://github.com/isLinXu/MindSporeWorkShop
+- https://github.com/isLinXu/PytorchAudioProject
+- https://github.com/isLinXu/ADLTTI-Book
+- https://github.com/isLinXu/Neural-Networks-and-Deep-Learning2022
+- https://github.com/isLinXu/SQL_Learn
+- https://github.com/isLinXu/TensorFlowWorkShop
+- https://github.com/isLinXu/MatLabPlayGround
+- https://github.com/isLinXu/DeepNetModelLab
