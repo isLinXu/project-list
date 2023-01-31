@@ -14,6 +14,12 @@ isLinXu project list
 ---
 # ![](./docs/img/isLinXu-bg.png)
 
+---
+
+# About
+
+
+
 
 
 # Project-List
@@ -45,9 +51,21 @@ isLinXu project list
 | [<img src="./docs/img/MatPy.png" style="zoom:25%;" />](https://github.com/isLinXu/MatPy) | [![](./docs/img/OneMarker.png)](https://github.com/isLinXu/OneMarker) | [![](./docs/img/OneInstaller.png)](https://github.com/isLinXu/OneInstaller) |
 | ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/MatPy.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/MatPy.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/MatPy.svg?style=social) | ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/OneMarker.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/OneMarker.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/OneMarker.svg?style=social) | ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/OneInstaller.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/OneInstaller.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/OneInstaller.svg?style=social) |
 | | | |
-| | | |
-
-
+| [<img src="./docs/img/SelfReinforcingFurnace.png" style="zoom:100%;" />](https://github.com/isLinXu/SelfReinforcingFurnace) | [<img src="./docs/img/AwesomeCourseNote.png" style="zoom:100%;" />](https://github.com/isLinXu/AwesomeCourseNote) | [<img src="./docs/img/cv-resume.png" style="zoom:100%;" />](https://github.com/isLinXu/cv-resume) |
+| ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/Self-ReinforcingFurnace.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/Self-ReinforcingFurnace.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/Self-ReinforcingFurnace.svg?style=social) | ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/awesome-course-notes.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/awesome-course-notes.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/awesome-course-notes.svg?style=social) | ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/cv-resume.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/cv-resume.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/cv-resume.svg?style=social) |
+|  | |  |
+| [<img src="./docs/img/awesome-roadmap.png" style="zoom:100%;" />](https://github.com/isLinXu/awesome-road-map) | [<img src="./docs/img/kaggle-pipeline.png" style="zoom:100%;" />](https://github.com/isLinXu/kaggle-pipeline) | [<img src="./docs/img/MyJupyterWorkLab.png" style="zoom:100%;" />](https://github.com/isLinXu/MyJupyterWorkLab) |
+| ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/awesome-road-map.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/awesome-road-map.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/awesome-road-map.svg?style=social) | ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/kaggle-pipeline.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/kaggle-pipeline.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/kaggle-pipeline.svg?style=social) | ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/MyJupyterWorkLab.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/MyJupyterWorkLab.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/MyJupyterWorkLab.svg?style=social) |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
+| |  |  |
 
 
 
